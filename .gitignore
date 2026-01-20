@@ -1,0 +1,41 @@
+﻿# Build results
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+
+# Rider / JetBrains IDE
+.idea/
+
+# Logs
+*.log
+
+# NuGet packages
+*.nupkg
+packages/
+*.snupkg
+
+# Backup & temp files
+*.bak
+*.tmp
+*.temp
+
+# Auto-generated files
+*.dll
+*.exe
+*.pdb
+
+# Test results
+TestResult*/
+*.coverage
+*.coveragexml
+
+# OS-specific files
+Thumbs.db
+.DS_Store
+
+# Others
+launchSettings.json
